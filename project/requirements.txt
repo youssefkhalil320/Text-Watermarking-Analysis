@@ -3,3 +3,5 @@ transformers==4.44.2
 rouge-score==0.1.2
 nltk==3.9.1
 pandas==2.2.2
+matplotlib==3.9.2
+seaborn==0.13.2
